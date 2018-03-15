@@ -1,6 +1,4 @@
-extern crate num;
-
-use num::Float;
+use num::{self,Float};
 use std::ops::{Add,Sub,Mul,Div};
 
 #[derive(Debug, Eq, PartialEq, Clone, Copy)]

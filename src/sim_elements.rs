@@ -1,6 +1,5 @@
-extern crate num;
-
 use vector::Vector2;
+use num;
 use num::Float;
 use num::Integer;
 use num::NumCast;
